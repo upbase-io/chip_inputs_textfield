@@ -1,7 +1,10 @@
 name: chip_inputs_textfield
 description: "ChipInputTextField is a TextField widget which is used to convert the give input to a Chip based on the validation provided"
 version: 0.0.5
-homepage:
+homepage: https://github.com/upbase-io/chip_inputs_textfield
+screenshots:
+  - description: "Easy to render image support multi type."
+    path: screenshot.png
 
 environment:
   sdk: ^3.5.3
