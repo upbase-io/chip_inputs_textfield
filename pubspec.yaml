@@ -1,0 +1,22 @@
+name: chip_inputs_textfield
+description: "ChipInputTextField is a TextField widget which is used to convert the give input to a Chip based on the validation provided"
+version: 0.0.5
+homepage:
+
+environment:
+  sdk: ^3.5.3
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+
+platforms:
+  android:
+  ios:
+
